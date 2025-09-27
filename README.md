@@ -25,6 +25,7 @@ make        # builds both server and client
 make server # builds only server
 make client # builds only client
 make clean  # removes executables
+```
 
 ### **Using CMake**
 1. Create a build directory and navigate into it:
