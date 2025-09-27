@@ -32,19 +32,20 @@ make clean  # removes executables
 ```bash
 mkdir build
 cd build
-
+```
 2. Generate build files with CMake:
 ```bash
 cmake ..
-
+```
 3. Compile the project:
 ```bash
 make
-
+```
 4. Run the server:
 ```bash
 ./server
-
+```
 5. Run clients in separate terminals:
 ```bash
 ./client
+```
