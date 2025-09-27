@@ -1,0 +1,4 @@
+/mnt/c/Users/mrinv/OneDrive/Desktop/multi_client_chat/build/CMakeFiles/server.dir
+/mnt/c/Users/mrinv/OneDrive/Desktop/multi_client_chat/build/CMakeFiles/client.dir
+/mnt/c/Users/mrinv/OneDrive/Desktop/multi_client_chat/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mrinv/OneDrive/Desktop/multi_client_chat/build/CMakeFiles/rebuild_cache.dir
