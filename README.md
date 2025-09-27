@@ -3,7 +3,7 @@
 ## **Description**
 A high-performance TCP chat server and client built in C++ for Linux.  
 Supports multiple concurrent clients using **threads**, **poll**, and can be extended to **epoll** for large-scale applications.  
-Designed to demonstrate **system programming, network programming, concurrency**, and **Linux development skills** — perfect for interview discussion and resume projects.  
+Designed to demonstrate **system programming, network programming, concurrency**, and **Linux development skills** 
 
 ---
 
